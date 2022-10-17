@@ -2,7 +2,6 @@
 --- Day 3: Binary Diagnostic ---
 """
 from pathlib import Path
-from turtle import position
 import pandas as pd
 
 file_path = Path.cwd().joinpath("files/day3.txt")
